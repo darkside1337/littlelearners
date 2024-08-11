@@ -1,0 +1,24 @@
+/* Sub Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 40px;
+gap: 20px;
+
+width: 358px;
+height: 385px;
+
+/* Orange/95 */
+background: #FFEFE6;
+/* Grey/15 */
+border: 2px solid #262626;
+box-shadow: 4px 4px 0px 1px #FFBE99;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
